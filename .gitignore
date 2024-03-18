@@ -176,6 +176,15 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+# PhpStorm
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/WGU-Capstone.iml
+.idea/.gitignore
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
