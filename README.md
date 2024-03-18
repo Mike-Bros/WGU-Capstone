@@ -5,13 +5,12 @@ average rating of a board game.
 
 ## Download and Setup Instructions
 
-1. [Download this repository](https://github.com/Mike-Bros/WGU-Capstone) to your local machine. Place it in a directory
+1. [Download this repository](https://github.com/Mike-Bros/WGU-Capstone) to your local machine. Unzip the download it in a directory
    of your choice such as `C:\Users\YourName\Documents\MBros-WGU-Capstone`.
 2. [Download this dataset from Kaggle](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek/data?select=games.csv).
-3. Rename the downloaded zip file to `board-games.zip` and place it in the data folder of the repository downloaded in
+3. Rename the downloaded zip file to `board-games.zip` and place it in the data folder of the project directory created in
    step 1.
-4. Ensure [Google Chrome is installed](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cwindows)
-
+4. Ensure [Google Chrome is installed](https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform%3DDesktop#zippy=%2Cwindows).
 5. Navigate to the project directory in the command prompt.
 6. Ensure Python is installed.
     1. Running `python --version` should return `Python 3.10.5` or higher.
