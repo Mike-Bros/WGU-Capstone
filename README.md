@@ -2,7 +2,7 @@
 
 This project is a Jupyter Notebook that uses Sklearn and Pandas to analyze a dataset of board games and predict the average rating of a board game.
 
-## Download and Setup Instructions
+## User Guide and Setup Instructions
 
 1. [Download this repository](https://github.com/Mike-Bros/WGU-Capstone) to your local machine. Unzip the download it in a directory of your choice such as `C:\Users\YourName\Documents\MBros-WGU-Capstone`.
 ![Download Repo Image](https://raw.githubusercontent.com/Mike-Bros/WGU-Capstone/main/img/download-repo.png)
