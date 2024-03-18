@@ -380,4 +380,17 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Capstone specific
+/data/board-games.zip
+data/artists_reduced.csv
+data/bgg_data_documentation.txt
+data/designers_reduced.csv
+data/games.csv
+data/mechanics.csv
+data/publishers_reduced.csv
+data/ratings_distribution.csv
+data/subcategories.csv
+data/themes.csv
+data/user_ratings.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks,python,macos,windows,linux
